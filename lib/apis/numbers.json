@@ -1,0 +1,7 @@
+{
+    "get_numbers": {
+        "method": "GET",
+        "url": "/accounts/{{account_id}}/phone_numbers",
+        "auth_required": true
+    }
+}

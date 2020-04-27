@@ -1,0 +1,7 @@
+{
+    "get_interaction": {
+	"method": "GET",
+	"url": "/accounts/{{account_id}}/cdrs/interaction",
+	"auth_required": true
+    }
+}
